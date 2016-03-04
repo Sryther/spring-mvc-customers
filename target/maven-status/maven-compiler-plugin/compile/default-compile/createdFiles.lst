@@ -1,0 +1,5 @@
+fr/tina/com/model/User.class
+fr/tina/com/control/CustomerController.class
+fr/tina/com/control/LoginController.class
+fr/tina/com/model/Customer.class
+fr/tina/com/service/CustomerService.class
